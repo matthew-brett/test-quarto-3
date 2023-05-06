@@ -1,0 +1,5 @@
+project:
+  title: "Test-quarto"
+
+filters:
+  - a_filter
