@@ -1,2 +1,2 @@
 
-Here we use a {{< var a_var >}}.
+This is the title: {{< meta title >}}.
