@@ -1,0 +1,4 @@
+A {{< var
+first >}} code.
+
+Another {{< var second >}} code.

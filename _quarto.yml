@@ -7,7 +7,4 @@ book:
   date: "06/05/2023"
   chapters:
     - index.qmd
-    - intro.qmd
-
-filters:
-  - a_filter
+    - some_vars.qmd
